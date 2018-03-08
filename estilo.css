@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    color:rgb(10, 10, 45);
+    font-family: monospace;
+}
+h2{
+    text-align: left;
+    color:rgb(10, 10, 45);
+    font-family: monospace;
+}
+
+h2.objetivo{
+    text-align: center;
+    color:rgb(10, 10, 45);
+    font-family: monospace;
+}
+
+
+dt{
+    color: rgb(10, 10, 45);
+    font-family: monospace;
+    font-size: 1.2em;
+}
+dd{
+    color: rgb(10, 10, 132);
+    font-family: monospace;
+    font-size: 1.1em;
+}
+li{
+    color: rgb(10, 10, 132);
+    font-family: monospace;
+    font-size: 1.1em;   
+}
+
+li.idiomas{
+    color: rgb(10, 10, 45);
+    font-family: monospace;
+    font-size: 1.2em;
+}
+
+li.tecnico{
+    color: rgb(10, 10, 45);
+    font-family: monospace;
+    font-size: 1.2em;
+}
+
+p{
+    color:rgb(10, 10, 132);
+    font-size: 1.1em;
+    font-family: monospace;
+}
+
+
+a{
+    color:rgb(10, 10, 132);
+    font-family: monospace;
+    font-size: 1.1em;
+}
+section.container{
+    width: 560px;
+    margin: auto;
+}
